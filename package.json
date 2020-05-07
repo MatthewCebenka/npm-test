@@ -1,0 +1,22 @@
+{
+  "name": "poop-shit-ass",
+  "version": "1.0.0",
+  "description": "This package will take any string you give it and wrap it with the poop emjoi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewCebenka/npm-test.git"
+  },
+  "keywords": [],
+  "author": "Matthew Cebenka",
+  "license": "ISC",
+  "node",
+  "npm"
+  "bugs": {
+    "url": "https://github.com/MatthewCebenka/npm-test/issues"
+  },
+  "homepage": "https://github.com/MatthewCebenka/npm-test#readme"
+}
